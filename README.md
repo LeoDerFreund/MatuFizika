@@ -1,5 +1,21 @@
 # MatuFizika
 
+My Diploma thesis was about an iOS app.
+The aim was to create a medium to preparare high school students for the National Test.
+Due to the overloaded material in coordination with the mentor it was decided to reduce it only for physics.
+the app offers:
+user registration with : email, google and facebook account.
+Chatting between existing users.
+Reading materials.
+Quiz for testing student's knowledge.
+and a user's profile.
+
+
+
+
+
+
+
 <img width="669" alt="Screen Shot 2020-09-01 at 10 57 54 AM" src="https://user-images.githubusercontent.com/70419967/91898109-885b6b00-ec9b-11ea-8be0-3336242d4770.png">
 
 <img width="677" alt="Screen Shot 2020-09-01 at 10 58 45 AM" src="https://user-images.githubusercontent.com/70419967/91898154-9c06d180-ec9b-11ea-8e76-2ec24ac6b106.png">
